@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Fast and powerful decentralized exchange (DEX)",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Swap,Leaderboard,Rewards,Points,Vaults,Campaigns",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Swap,Leaderboard,Rewards,Points,Vaults",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
